@@ -1,0 +1,63 @@
+EVALUACIÓN N3
+
+Objetivo De La Evaluación: RA1-R2- R3
+Medir conocimientos y competencias correspondiente a:
+
+A continuación, usted está en condiciones, para poder realizar las siguientes tareas:
+
+•	Creación de repositorio remoto con GitHub.
+•	Gestión de conexión de repositorio local al repositorio remoto. 
+•	Gestión de realizar cambios locales.
+•	Gestión de actualizar el repositorio remoto con los cambios locales. 
+•	Publicación de contenido de repositorio remoto en GitHub Pages.
+
+Software a utilizar, para el desarrollo de la evaluación:
+
+-	Visual Studio Code.
+-	Google Chrome, Microsoft Edge.
+-	Git
+-	GitHub
+
+Instrucciones
+
+Ingresar a la siguiente cuenta GitHub: https://github.com/ProyectosUCSC
+Repositorio “git_asess”:
+
+1.	Clonar repositorio git_asess al disco local  (5pts)
+2.	Iniciar repositorio local correspondiente al recurso clonado. (5pts)
+3.	Crear primera versión “inicio proyecto” (5pts)
+
+Realizar proyecto HTML, adjunto en la carpeta git_asess (prototipo): 
+
+4.	Crear Versión:  Best way, una vez hecho el siguiente item: (15 pts)
+Background: hero-bg.png
+Imagen: hero.png
+Fuente: verdana
+Color: blanco
+Cadena de Texto:
+
+ Best way to fund your study abroad  
+
+ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+
+
+5.	Crear Versión: About our School, una vez hecho el siguiente item (15pts)
+Imagen: About.png
+Fuente: verdana
+Color: negro
+Cadena de Texto:
+
+About our School
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+
+6.	Crear Versión:Admission open,  una vez hecho el siguiente item:m (15pts)
+Imagen: Admission.png
+Fuente: verdana
+Color: negro
+Cadena de Texto:
+
+Admission open
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+
+7.	Finalizado el proyecto  copiar repositorio local a GitHub, en la carpeta  asociado  su nombre y apellido (40pts).
